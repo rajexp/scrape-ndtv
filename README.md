@@ -1,6 +1,7 @@
 # scrape-ndtv
 Demo script of scraping NDTV website for getting lastest news  
 This script returns the latest news from [NDTV](http://www.ndtv.com) website.  
+Supported on __Python 3__  
 `get_latest()` method returns the list of recent articles in JSON format 
 # Demo data
   `[
@@ -18,9 +19,9 @@ This script returns the latest news from [NDTV](http://www.ndtv.com) website.
    ]`  
    
 ## Fields Description
-  1.  image   : link of the image in the article  
-  2.  link    : article's url  
-  3.  content : The condensed headstory of the news  
-  4.  title   : Title of the news article
+  1.  __image__   : link of the image in the article  
+  2.  __link__    : article's url  
+  3.  __content__ : The condensed headstory of the news  
+  4.  __title__   : Title of the news article
   
     
